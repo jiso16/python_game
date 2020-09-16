@@ -20,7 +20,7 @@ current_path = os.path.dirname(__file__) # 현재 파일의 위치 반환
 image_path = os.path.join(current_path, "images") # images 폴더 위치 반환
 
 # 배경 만들기
-background = pygame.image.load(os.path.join(image_path, "background.png"))
+background = pygame.image.load(os.path.join(image_path, "45908.jpg"))
 
 # 스테이지 만들기
 stage = pygame.image.load(os.path.join(image_path, "stage.png"))
@@ -219,6 +219,10 @@ while running:
                         "init_spd_y": ball_speed_y[ball_img_idx + 1]})# y 최초 속도
 
                 break
+
+        else: #계속 게임 진행
+            continue #안쪽 for 문 조건 안맞으면 continue, 바깥 for문 계속 진행
+        break #안쪽 for문에서 break만나면 여기로 진입
 
     # 충돌된 공 or 무기 없애기
     if ball_to_remove > -1:
