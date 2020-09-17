@@ -8,7 +8,13 @@
 - spacebar를 이용해서 무기를 발사합니다.
 
    - 무기로 제일 큰 공을 맞추면 더 작은 공 두개로 나뉩니다.
-   - 공은 총 세번 분리됩니다. 
+   - 공은 총 세번 분리됩니다.
+
+## Game Over
+  
+![gameover](https://user-images.githubusercontent.com/66424045/93467080-3582e400-f928-11ea-9d95-2ad4f93ee6b0.png)
+ 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTI5MDI1NF19
+eyJoaXN0b3J5IjpbLTcyMjQyNjU4OV19
 -->
