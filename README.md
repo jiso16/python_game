@@ -7,6 +7,8 @@
 
 - 게임은 총 100초동안 진행됩니다.
 
+- 방향키를 이용하여 캐릭터의 위치를 조종합니다.
+
 - spacebar를 이용해서 무기를 발사합니다.
 
    -무기는 한번에 여러개 발사가 가능합니다.
@@ -33,5 +35,5 @@
 
 - 100초 안에 공을 모두 없애면 Mission Complete를 화면에 출력후 게임이 종료됩니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjUxNDYzOF19
+eyJoaXN0b3J5IjpbLTEwMDE1NDE2NTldfQ==
 -->
