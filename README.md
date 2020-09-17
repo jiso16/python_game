@@ -14,7 +14,12 @@
   
 ![gameover](https://user-images.githubusercontent.com/66424045/93467080-3582e400-f928-11ea-9d95-2ad4f93ee6b0.png)
  
- 
+ - 게임이 끝나는 경우
+	1. 캐릭터가 공에 맞았을 경우
+
+	2. 시간안에 끝내지 못했을 경우
+	
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjQyNjU4OV19
+eyJoaXN0b3J5IjpbLTE4ODEzNDUxODVdfQ==
 -->
