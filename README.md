@@ -20,9 +20,10 @@
 ![gameover](https://user-images.githubusercontent.com/66424045/93467080-3582e400-f928-11ea-9d95-2ad4f93ee6b0.png)
  
  - 게임이 끝나는 경우
-	1. 캐릭터가 공에 맞았을 경우
+	 
+	 -캐릭터가 공에 맞았을 경우
 
-	2. 시간안에 끝내지 못했을 경우
+	-시간안에 끝내지 못했을 경우
 	
 - 게임에서 지게 되면 Game Over을 화면에 띄우면서 게임이 종료됩니다.
 
@@ -32,5 +33,5 @@
 
 - 100초 안에 공을 모두 없애면 Mission Complete를 화면에 출력후 게임이 종료됩니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgwMDAxMjVdfQ==
+eyJoaXN0b3J5IjpbMTYzMjUxNDYzOF19
 -->
