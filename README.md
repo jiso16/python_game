@@ -1,7 +1,13 @@
 # Python game - Pang 게임
 ## 게임 시작
 
+![무기 발사](https://user-images.githubusercontent.com/66424045/93466492-47b05280-f927-11ea-8662-4a1796391648.png)
 
+- 게임이 시작되면 공이 떨어집니다.
+
+- spacebar를 이용해서 무기를 발사합니다.
+
+ --  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjM2ODcwM119
+eyJoaXN0b3J5IjpbLTEwODIzMzU5MDVdfQ==
 -->
